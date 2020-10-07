@@ -1,0 +1,16 @@
+[
+{
+  "modid": "soundlimitex",
+  "name": "SoundLimitExtends",
+  "description": "Sets number of normal channels to 1024.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://www.curseforge.com/minecraft/mc-mods/sound-limit-extends",
+  "updateUrl": "",
+  "authorList": ["hamusuke2303"],
+  "credits": "Thx for downloading this mod!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
